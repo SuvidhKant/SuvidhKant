@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Uttar Pardesh. <br><br>- 🔭 I’m working as Chapter Lead Of The Hacker's Meetup<br>- 📚 I'm currently learning Cyber Security & Software Development.<br>- ⚡ In my free time I Learned Cyber Security Concepts.</p>
+<p align="left">I'm from Uttar Pardesh. <br><br>- 🔭 I’m working as Chapter Lead Of The Hacker's Meetup Noida Chapter.<br>- 📚 I'm currently learning Cyber Security & Software Development.<br>- ⚡ In my free time I Learned Cyber Security Concepts.</p>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://uxwing.com/java-programming-language-icon/" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />
