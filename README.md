@@ -47,8 +47,4 @@
 
 ###
 
-<script src="https://tryhackme.com/badge/545868"></script>
-
-###
-
 
