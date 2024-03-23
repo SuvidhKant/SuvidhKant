@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="img/html-icon.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="img/linux-icon.svg" height="40" alt="ruby logo"  />
+  <img src="img/linux.png" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="img/python-programming-language-icon.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
