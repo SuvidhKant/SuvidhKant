@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="img/github-mark-white.png"  />
+  <img src="img/cyber expert.png"  />
 </div>
 
 ###
