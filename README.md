@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🥇 Badges</h3>
+<h2 align="center">🥇 Badges</h2>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SuvidhKant.png" alt="TryHackMe">
 
