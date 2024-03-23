@@ -12,11 +12,11 @@
 
 ###
 
-<h1 align="left">Hey Enthusiast 👋</h1>
+<h1 align="center">Hey Enthusiast 👋</h1>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h3 align="left">👩‍💻  About Me</h3
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">🥇 Badges</h2>
+<h3 align="left">🥇 Badges</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SuvidhKant.png" alt="TryHackMe">
 
