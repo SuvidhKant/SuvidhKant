@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/cyber expert.png"  />
+  <img src="img/cyber-expert.png"  />
 </div>
 
 ###
