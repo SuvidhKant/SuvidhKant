@@ -43,6 +43,9 @@
   <img width="12" />
   <img src="img/canva-icon.svg" height="40" alt="circleci logo"  />
   <img width="12" />
+  <img src="img/c-.png" height="40" alt="circleci logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
